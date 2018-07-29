@@ -1,0 +1,5 @@
+1 effort
+1 right Directions
+1 luck
+
+= success!
